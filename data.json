@@ -1,0 +1,461 @@
+[
+  {
+    "_id": {
+      "$oid": "5fc18870820536767dd9f678"
+    },
+    "query": "Earth observation",
+    "results": {
+      "programs": [
+        {
+          "title": "ESA - Observing the Earth",
+          "link": "https://www.esa.int/Applications/Observing_the_Earth",
+          "text": "ESA Observing the Earth homepage features the latest news on ESA's Earth observation activities, missions and satellites, including Aeolus, Swarm, Cryosat, SMOS and the Copernicus Sentinels."
+        },
+        {
+          "title": "Near-Earth Object Observations Program | NASA",
+          "link": "https://www.nasa.gov/planetarydefense/neoo/",
+          "text": "NASA.gov brings you the latest images, videos and news from America's space agency. Get the latest updates on NASA missions, watch NASA TV live, and learn about our quest to reveal the unknown and benefit all humankind."
+        },
+        {
+          "title": "NASA Earth Observatory - Home",
+          "link": "https://earthobservatory.nasa.gov/",
+          "text": "Picturing Earth: Window On The World. From their home on the International Space Station, astronauts have a view unlike anything most of us will ever see. Over 20 years, they have shot millions of photographs of Earth, and it is not just a hobby. It is an important scientific job, and one they need to \u2026"
+        },
+        {
+          "title": "GEO",
+          "link": "http://www.earthobservations.org/index.php",
+          "text": "Earth observations relevant to climate action are not limited to weather or climate, but are much broader and include terrestrial and socio-economic variables. GEO makes available Earth observations in support of effective policy responses for climate change adaptation, mitigation and other specific provisions , working with partners to enhance global observation systems for climate action."
+        },
+        {
+          "title": "Copernicus - The European Earth Observation \u2026",
+          "link": "https://ec.europa.eu/growth/sectors/space/copernicus_en",
+          "text": "Copernicus is the European system for monitoring the Earth and is coordinated and managed by the European Commission. The development of the observation infrastructure is performed under the aegis of the European Space Agency for the space component and by the European Environment Agency and EU countries for the in situ component."
+        },
+        {
+          "title": "Earth Observation Data | Earthdata",
+          "link": "https://earthdata.nasa.gov/earth-observation-data",
+          "text": ""
+        },
+        {
+          "title": "earth observation PhD Projects, Programs & \u2026",
+          "link": "https://www.findaphd.com/phds/?Keywords=earth+observation",
+          "text": "FindAPhD. Search Funded PhD Projects, Programs & Scholarships in earth observation. Search for PhD funding, scholarships & studentships in the UK, Europe and around the world."
+        },
+        {
+          "title": "GLOBE Home Page - GLOBE.gov",
+          "link": "https://www.globe.gov/",
+          "text": "The Global Learning and Observations to Benefit the Environment (GLOBE) Program is an international science and education program that provides students and the public worldwide with the opportunity to participate in data collection and the scientific process, and contribute meaningfully to our understanding of the Earth system and global environment."
+        },
+        {
+          "title": "Advancing Earth Observation Forum 2021 | 23 - 27 \u2026",
+          "link": "https://earthobsforum.org/",
+          "text": "Our \u2018Earth Observation community\u2019 is very diverse, including traditional remote sensing activities that transform images to information, industries that manufacture and operate satellites, aircraft and drones; and the multitude of industry, government and other groups that use products and services delivered from remote sensing for societal, scientific and recreation activities, to name a few."
+        },
+        {
+          "title": "Overview of China Earth Observation Satellite \u2026",
+          "link": "https://www.researchgate.net/publication/282404071_Overview_of_China_Earth_Observation_Satellite_Programs_Space_Agencies",
+          "text": "As the flagship of the environment and atmosphere observation satellite in the Chinese Highresolution Earth Observation System (CHEOS) program (Gu et al., 2015), GF-5 \u2026"
+        }
+      ],
+      "seminar": [
+        {
+          "title": "DLR - Earth Observation Center - Events and Seminars",
+          "link": "https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5234/10681_read-24083/",
+          "text": "Events and Seminars. Internal Science Seminars. Within the Earth Observation Center, both IMF and the DFD departments \"Atmosphere\", \"Land Surface\" and \"Geo-Risks and Civil Securit"
+        },
+        {
+          "title": "Earth Observation Webinars | Global Research \u2026",
+          "link": "https://globalresearchalliance.org/e/earth-observation-webinars/",
+          "text": "A series of webinars are being held to share the outcomes of the UK-led project \u201cScoping the potential for Earth Observation (EO) to provide agricultural activity data for inventory compilation\u201d. This project supports the aims of the Global Research Alliance (GRA) on Agricultural Greenhouse Gases. Click here for more information, including the agenda"
+        },
+        {
+          "title": "ESA - Observing the Earth",
+          "link": "https://www.esa.int/Applications/Observing_the_Earth",
+          "text": "ESA Observing the Earth homepage features the latest news on ESA's Earth observation activities, missions and satellites, including Aeolus, Swarm, Cryosat, SMOS and the Copernicus Sentinels."
+        },
+        {
+          "title": "Earth Observation for Water Cycle Science 2020 - \u2026",
+          "link": "https://eo4society.esa.int/event/earth-observation-for-water-cycle-science-2020/",
+          "text": "Earth Observation and Big Data for improved financial resilience November 10 @ 15:00 - 16:30 UTC+2 How to build an efficient platform for big EO datasets processing"
+        },
+        {
+          "title": "Summit on Earth Observation Business",
+          "link": "http://www.earth-observation-business.com/en",
+          "text": "For the past 23 years the World Satellite Business Week has been a unique meeting place for leaders of the global satellite communications and information business to exchange critical intelligence, secure new partnerships and debate on the latest trends, opportunities \u2026"
+        },
+        {
+          "title": "Earth Observation and Big Data for improved \u2026",
+          "link": "https://eo4society.esa.int/event/earth-observation-and-big-data-for-improved-financial-resilience/",
+          "text": "This webinar will discuss opportunities and challenges related to earth observation and big data in the context of disaster risk financing, decision-support, anticipatory action, sector-specific loss assessment and loss transmission channels."
+        },
+        {
+          "title": "Earth Resources Observation and Science (EROS) \u2026",
+          "link": "https://www.usgs.gov/centers/eros",
+          "text": "What's New at EROS? Eyes on Earth is a podcast covering a range of topics on remote sensing, satellite operations, and the science of Earth observation. Watch for new episodes every two weeks. Petermann Glacier in northwestern Greenland is known to generate large icebergs\u2014most notably in 2010 and ..."
+        },
+        {
+          "title": "Earth Observation Australia",
+          "link": "https://www.eoa.org.au/",
+          "text": "Earth Observation Australia is a community group for ALL people who collect and use earth observation data in Australia to have a forum to present and discuss their activities and define their needs for support from industry, academia and government."
+        }
+      ],
+      "symposium": [
+        {
+          "title": "Earth Observations - GEO Virtual Symposium 2020",
+          "link": "https://earthobservations.org/symposium2020.php",
+          "text": "The intergovernmental Group on Earth Observations (GEO) is leading a worldwide effort to build a Global Earth Observation System of Systems (GEOSS) over the next 10 years. GEO Virtual Symposium 2020 . Week at a Glance Monday 15 June Tuesday 16 June Wednesday 17 June Thursday 18 June Friday 19 June . You can ..."
+        },
+        {
+          "title": "Earth Observation - SmallSat Symposium 2020",
+          "link": "https://2020.smallsatshow.com/sessions/earth-observation-cloud-services-data-processing-and-analysis/",
+          "text": "His team focuses on making earth observation data accessible for everyone. Previously, as Head of Data at Kik Interactive, Joel directed data engineering and data sciences at petabyte scale. Prior to that, Joel managed analytics and big data teams at BlackBerry, helping the company grow from 3 million to 80 million subscribers."
+        },
+        {
+          "title": "Earth Observation - SmallSat Symposium 2020",
+          "link": "https://2020.smallsatshow.com/sessions/earth-observation-current-market-and-major-players/",
+          "text": "In 2012 Andrew became the Head of Earth Observation, responsible for EO business within SSTL. As part of this role he has negotiated several major new contracts and overseen the design and development of the DMC3 constellation. In 2016 Andrew became Business Line Director for Earth Observation."
+        },
+        {
+          "title": "NASA's Earth Observing System",
+          "link": "https://eospso.nasa.gov/",
+          "text": "The feature article in the September-October issue of The Earth Observer focuses on the NASA ESD\u2019s Airborne Science Program (ASP), which is a critical component of the division effort\u2014flying in the \u201cgap\u201d between satellite and ground-based observations. Airborne Earth science goes back to the 1960s, when NASA retrofitted passenger and military aircraft with equipment that enabled ..."
+        }
+      ],
+      "congress": [
+        {
+          "title": "Earth Observation Events - EO Workshops - \u2026",
+          "link": "https://eoportal.org/web/eoportal/events-all",
+          "text": "Below you can find upcoming Earth Observation events from around the world. These events examine and discuss the many different aspects and applications of the Earth Observation field. If you would like to feature an event, please feel free to contact us by email at: eoweb@infoterra-global.com"
+        },
+        {
+          "title": "Earth Observations in Support of Monitoring Land ...",
+          "link": "https://www.iucncongress2020.org/programme/official-programme/session-43182",
+          "text": "In this session, participants will learn through hands-on exercises how to use Earth Observations to assist in achieving the UN SDG indicators 15.3.1 and 11.3.1 and the Trends.Earth tool co-developed with Conservation International, UNCCD, and UN Habitat, in support of country reporting needs for land degradation and sustainable cities."
+        },
+        {
+          "title": "GEO - events - Earth Observations",
+          "link": "http://www.earthobservations.org/meetings.php",
+          "text": "The intergovernmental Group on Earth Observations (GEO) is leading a worldwide effort to build a Global Earth Observation System of Systems (GEOSS) over the next 10 years."
+        },
+        {
+          "title": "International Conference on Satellite Imagery and \u2026",
+          "link": "https://waset.org/satellite-imagery-and-earth-observation-conference-in-august-2020-in-tokyo",
+          "text": "Satellite Imagery and Earth Observation Conference scheduled on August 06-07, 2020 in August 2020 in Tokyo is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums."
+        }
+      ],
+      "courses": [
+        {
+          "title": "Course introduction - Earth Observation from Space",
+          "link": "https://www.futurelearn.com/courses/optical-earth-observation/2/steps/215223",
+          "text": "Throughout the course, the terms \u2018Earth observation\u2019 and \u2018remote sensing\u2019 are often used interchangeably. The term \u2018remote sensing\u2019 refers to the use of electromagnetic radiation (including visible light), emitted or reflected by the Earth, and specialised instruments on board EO satellites, to collect a range of types of data and imagery, at a local and global scale, as they orbit ..."
+        },
+        {
+          "title": "EO Education and Training Home - Earth Online - ESA",
+          "link": "https://earth.esa.int/web/guest/eo-education-and-training",
+          "text": "Overview of Earth Observation Training at ESA ESA undertakes a wide range of activities in the field of Earth Observation education, training and capacity building. The scope of these activities ranges from high level training in state-of-the-art processing for the next generation of Principal Investigators to more general outreach activities and Earth Observation education for schools."
+        },
+        {
+          "title": "Earth Observation and Geoinformation \u2026",
+          "link": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2019&id=874",
+          "text": "Study MSc in Earth Observation & Geoinformation Management at the University of Edinburgh. Our postgraduate degree programme will suit students with a background in environmental or geographical sciences and prepare you for a research degree or relevant employment. Find out more here."
+        },
+        {
+          "title": "Course Remote Sensing for Earth Observation - \u2026",
+          "link": "https://www.transmittingscience.com/courses/ecology/remote-sensing-for-earth-observation/",
+          "text": "Course Overview. High-quality data from remote sensing can benefit the study of the Earth system as a tool for acquiring information about the Earth through recording reflected or emitted energy. There are already a myriad variety of satellite sensors that vary in temporal, spatial coverage and resolution."
+        }
+      ],
+      "conference": [
+        {
+          "title": "Advancing Earth Observation Forum 2021 | 23 - 27 \u2026",
+          "link": "https://earthobsforum.org/",
+          "text": "Our \u2018Earth Observation community\u2019 is very diverse, including traditional remote sensing activities that transform images to information, industries that manufacture and operate satellites, aircraft and drones; and the multitude of industry, government and other groups that use products and services delivered from remote sensing for societal, scientific and recreation activities, to name a few."
+        },
+        {
+          "title": "Summit on Earth Observation Business",
+          "link": "http://www.earth-observation-business.com/en",
+          "text": "For the past 23 years the World Satellite Business Week has been a unique meeting place for leaders of the global satellite communications and information business to exchange critical intelligence, secure new partnerships and debate on the latest trends, opportunities \u2026"
+        },
+        {
+          "title": "earth observation for sustainable development",
+          "link": "https://eo4sd.esa.int/",
+          "text": "Earth Observation and Big Data for improved financial r... A webinar to discuss how latest technology can support innovative risk financing solutions for climate shocks and other complex risks. Every day, the surface of our planet is monitored by hundreds of satellites operating at different altitudes,... Posted on June 26, 2020 by Mariangela"
+        },
+        {
+          "title": "Earth Observation Events - EO Workshops - \u2026",
+          "link": "https://events.eoportal.org/web/eoportal/events-all",
+          "text": "Earth Observation, Geo-portals and Geodata Infrastruktures, collaborative data custodianship. other related topics are welcome also. The conference will also celebrate the 20th anniversary of the Master Programme \"Photogrammetry and Geoinformatics \"."
+        },
+        {
+          "title": "ESA - Earth observation conference at ILA",
+          "link": "https://www.esa.int/Applications/Observing_the_Earth/Earth_observation_conference_at_ILA",
+          "text": "ESA will host an Earth observation conference at the ILA Berlin Air Show to present how it is responding to the increasing demand for remote-sensing data as decision-makers are faced with environmental change, natural disasters and civil security issues."
+        },
+        {
+          "title": "Earth Observations Conference | Copernicus",
+          "link": "https://atmosphere.copernicus.eu/earth-observations-conference",
+          "text": "The Copernicus Climate Change Service (C3S) and the Atmosphere Monitoring Service (CAMS)both will be running sessions at the Swedish Earth Observation Conference next week in Stockholm, Sweden.The conference will have a special focus on Copernicus system and its services as the European Union\u2019s flagship programme for monitoring the Earth\u2019s environment using satellite and in-situ observations."
+        },
+        {
+          "title": "EO 4 Water 2020",
+          "link": "http://eo4water2020.esa.int/",
+          "text": "Earth Observation for Water Cycle Science 2020. This Conference aims at reviewing the latest advances in the use of EO technology for scientific questions related to the water cycle and its applications, exploring the potential offered by the coming EO as well as the main challenges and opportunities for the coming decade."
+        },
+        {
+          "title": "Earth Observation Summit and EO4GEO Workshop \u2026",
+          "link": "https://europa.eu/newsroom/events/earth-observation-summit-and-eo4geo-workshop_en",
+          "text": "Accordingly, the Earth Observation summit will enable participation of the companies who will be able to directly test these tools during the conference. The second topic of the Summit will be focused on the uptake of services and geospatial data within the Copernicus programme in different sectors of economy as well as enabling efficient services in the field of civil protection, border ..."
+        },
+        {
+          "title": "GEO",
+          "link": "http://www.earthobservations.org/index.php",
+          "text": "Earth observations relevant to climate action are not limited to weather or climate, but are much broader and include terrestrial and socio-economic variables. GEO makes available Earth observations in support of effective policy responses for climate change adaptation, mitigation and other specific provisions , working with partners to enhance global observation systems for climate action."
+        },
+        {
+          "title": "Earth Observation Australia",
+          "link": "https://www.eoa.org.au/",
+          "text": "Earth Observation Australia is a community group for ALL people who collect and use earth observation data in Australia to have a forum to present and discuss their activities and define their needs for support from industry, academia and government."
+        }
+      ],
+      "diploma": [
+        {
+          "title": "Geo-information Science and Earth Observation | \u2026",
+          "link": "https://www.itc.nl/education/studyfinder/geo-information-science-and-earth-observation-pg-diploma/",
+          "text": "Postgraduate diploma Geo-information Science and Earth Observation Go to registration! This 1-year Postgraduate diploma programme (60 credits) caters for young and mid-career professionals who need to be proficient in applying geo-information science and earth observation in their field of interest, analysing problems and applying new methods and techniques, and managing (multi)disciplinary ..."
+        },
+        {
+          "title": "Geographic Information Science and Earth \u2026",
+          "link": "https://www.igeon.eu/",
+          "text": "Diploma. Geographic Information Science and Earth Observation for Environmental Modeling and Natural Resource Management (iGEON) (online course) Duration. 2 years. Language. 100% English taught. Application deadline. EU/EEA. 22 December 2020. non EU/EEA. 22 December 2020."
+        },
+        {
+          "title": "MSc Earth and Planetary Observation | Find a \u2026",
+          "link": "https://www.stir.ac.uk/courses/pg-taught/earth-and-planetary-observation/",
+          "text": "This gives you the opportunity to familiarise with real-life solutions to common challenges in Earth observation and space exploration. Flexible learning If you\u2019re interested in studying a module from this course, the Postgraduate Certificate or the Postgraduate Diploma then please email Graduate Admissions to discuss your course of study."
+        },
+        {
+          "title": "DLR - Earth Observation Center - Internship / BSc / \u2026",
+          "link": "https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5875/9727_read-19517/",
+          "text": "The Earth Observation Center (EOC) closely cooperates with universities, not only with respect to research, but also education. We invite young scientists to work with us at DLR i"
+        },
+        {
+          "title": "Earth Observation - Swansea University | \u2026",
+          "link": "https://www.prospects.ac.uk/universities/swansea-university-4014/department-of-geography-10288/courses/earth-observation-50092",
+          "text": "The MSc by Research in Earth Observation allows you to undertake a year long individual programme of personally and professionally enriching research. Your earth observation research project will be shaped by participation in activities such as seminars, workshops, laboratory activity and field work, as well as your involvement in one of our established research groups."
+        },
+        {
+          "title": "Dipl.-Inf. Andreas Rabe \u2014 Earth Observation Lab",
+          "link": "https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/andreas_rabe",
+          "text": "23/2/2020\u00a0\u00b7 Earth observation from space\" Our focus is on developing and applying remote sensing methods to better understand global change related to land systems. We map land cover and land use and related spatio-temporal change patterns. Applications extend from agriculture (both cropland and grassland), over forest ecosystems to urban areas."
+        },
+        {
+          "title": "M.Sc | Welcome to Indian Institute of Remote \u2026",
+          "link": "https://www.iirs.gov.in/msc/",
+          "text": ""
+        },
+        {
+          "title": "How the Earth observation community can learn \u2026",
+          "link": "https://www.earthobservations.org/geo_blog_obs.php?id=436",
+          "text": "How the Earth observation community can learn from Indigenous Peoples and a Lakota worldview. ... Conservation and Management from the University of Oxford and a Diploma in Documentary Filmmaking from the EICTV in Cuba. What's New. GEO at the UNFCCC Climate Dialogues and Earth \u2026"
+        },
+        {
+          "title": "DLR - Earth Observation Center - Earth Observation \u2026",
+          "link": "http://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5277/8858_read-15912/",
+          "text": "EOC conducts research in the field of remote sensing. We seek answers to urgent social questions relating to the environment and climate, mobility and planning, prevention and management of natural catastrophes, and civil security. We operate satellite data receiving stations in Germany and abroad. In the German Satellite Data Archive (D-SDA) we safeguard data and information products long ..."
+        },
+        {
+          "title": "Jobs in Remote Sensing, Earth Observation & GIS",
+          "link": "http://www.earthworks-jobs.com/remotese.htm",
+          "text": "Jobs Earthworks advertises worldwide careers jobs and employment opportunities in Remote Sensing, Earth, Space, Satellite Observation and GIS"
+        }
+      ],
+      "certificate": [
+        {
+          "title": "Penn State World Campus | Graduate Certificate in \u2026",
+          "link": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-remote-sensing-earth-observation-certificate/overview",
+          "text": "Earn an Online Certificate in Remote Sensing and Earth Observation. The need for GIS professionals who can work with remotely sensed imagery and terrain models is increasing rapidly, along with the rise in new satellite and drone platforms for capturing imagery."
+        },
+        {
+          "title": "Graduate Certificate in Remote Sensing for Earth \u2026",
+          "link": "https://online.usc.edu/programs/graduate-certificate-in-remote-sensing-for-earth-observation/",
+          "text": "The USC online Graduate Certificate in Remote Sensing for Earth Observation (RSEO) program focuses on the latest tools and methods to collect, manage and analyze spatial information. Data acquired from sources like aircraft, satellites and unmanned autonomous systems can be applied for a wide range of purposes, including monitoring environmental conditions, weather patterns and natural \u2026"
+        },
+        {
+          "title": "Remote Sensing and Earth Observation - Graduate \u2026",
+          "link": "https://www.ems.psu.edu/academics/find-program-study/remote-sensing-and-earth-observation-graduate-certificate",
+          "text": "Remote Sensing and Earth Observation - Graduate Certificate. This certificate was designed to provide you with a foundation in remote sensing, terrain mapping, and image analysis, which is critical as the need for GIS professionals who can work with remotely sensed imagery and terrain models is increasingly rapidly."
+        },
+        {
+          "title": "Graduate Certificate in Remote Sensing and Earth \u2026",
+          "link": "https://gis.e-education.psu.edu/remotesensing",
+          "text": "Remote Sensing and Earth Observation Certificate The Graduate Certificate in Remote Sensing and Earth Observation is designed for GIS practitioners who lack formal education in the technologies and methods associated with remote sensing, image analysis, and terrain modeling."
+        },
+        {
+          "title": "Graduate Certificate in Remote Sensing and Earth \u2026",
+          "link": "https://gis.e-education.psu.edu/remotesensing/certificate",
+          "text": "In collaboration with the Dutton e-Education Institute and the World Campus, Penn State's Department of Geography has offered instructor-led online education since 1999. The Graduate Certificate in Remote Sensing and Earth Observation helps current and aspiring professionals to become knowledgeable and skillful users of remotely sensed data and technologies in geospatial"
+        },
+        {
+          "title": "Online Graduate Certificate in Remote Sensing for \u2026",
+          "link": "https://gis.usc.edu/online-programs/certificate-remote-sensing-earth-observation-grad/",
+          "text": "Home > Online Programs > Online Graduate Certificate in Remote Sensing for Earth Observation; Remote sensing data offers a detailed perspective on systems and locations throughout the world that can be invaluable for applications ranging from weather observation and environmental stewardship to refugee crisis and disaster management."
+        },
+        {
+          "title": "EO Education and Training Home - Earth Online - ESA",
+          "link": "https://earth.esa.int/web/guest/eo-education-and-training",
+          "text": "Overview of Earth Observation Training at ESA ESA undertakes a wide range of activities in the field of Earth Observation education, training and capacity building. The scope of these activities ranges from high level training in state-of-the-art processing for the next generation of Principal Investigators to more general outreach activities and Earth Observation education for schools."
+        },
+        {
+          "title": "Graduate Certificate \u00ab Earth Observation Science for ...",
+          "link": "https://eos3blog.wordpress.com/about/",
+          "text": "Earth Observation Science for Society and Sustainability (EOS 3). EOS 3 is an interdisciplinary graduate certificate program consisting of a four-course sequence. The certificate emphasizes integration of natural and social sciences approaches to data exploration and visualization while building student competency in interdisciplinary team leadership and communication."
+        },
+        {
+          "title": "ESA - Observing the Earth",
+          "link": "https://www.esa.int/Applications/Observing_the_Earth",
+          "text": "ESA Observing the Earth homepage features the latest news on ESA's Earth observation activities, missions and satellites, including Aeolus, Swarm, Cryosat, SMOS and the Copernicus Sentinels."
+        },
+        {
+          "title": "GEO",
+          "link": "http://www.earthobservations.org/index.php",
+          "text": "Earth observations relevant to climate action are not limited to weather or climate, but are much broader and include terrestrial and socio-economic variables. GEO makes available Earth observations in support of effective policy responses for climate change adaptation, mitigation and other specific provisions , working with partners to enhance global observation systems for climate action."
+        }
+      ],
+      "talk": [
+        {
+          "title": "ESA - Observing the Earth",
+          "link": "https://www.esa.int/Applications/Observing_the_Earth",
+          "text": "ESA Observing the Earth homepage features the latest news on ESA's Earth observation activities, missions and satellites, including Aeolus, Swarm, Cryosat, SMOS and the Copernicus Sentinels."
+        },
+        {
+          "title": "Let\u2019s talk about Earth observations | SciTech Europa",
+          "link": "https://www.scitecheuropa.eu/lets-talk-about-earth-observations/98599/",
+          "text": "Let\u2019s talk about Earth observations. 28th November 2019. iStock/enot-poloskun. Climate adaptation requires a broad and integrated approach: GEO is well positioned to deliver in this area due to its experience in gathering knowledge across multiple disciplines and geographies."
+        },
+        {
+          "title": "NASA Earth Observatory - Home",
+          "link": "https://earthobservatory.nasa.gov/",
+          "text": "Picturing Earth: Window On The World. From their home on the International Space Station, astronauts have a view unlike anything most of us will ever see. Over 20 years, they have shot millions of photographs of Earth, and it is not just a hobby. It is an important scientific job, and one they need to \u2026"
+        }
+      ],
+      "webinar": [
+        {
+          "title": "Earth Observation Webinars | Global Research \u2026",
+          "link": "https://globalresearchalliance.org/e/earth-observation-webinars/",
+          "text": "A series of webinars are being held to share the outcomes of the UK-led project \u201cScoping the potential for Earth Observation (EO) to provide agricultural activity data for inventory compilation\u201d. This project supports the aims of the Global Research Alliance (GRA) on Agricultural Greenhouse Gases. Click here for more information, including the agenda"
+        },
+        {
+          "title": "OCRE Earth Observation Funding Launch Webinar | \u2026",
+          "link": "https://www.ocre-project.eu/events/ocre-earth-observation-funding-launch-webinar",
+          "text": "OCRE Earth Observation Funding Launch Webinar. Home / Events / OCRE Earth Observation Funding Launch Webinar. 14 October 2020 - 14:00. Venue: Online. Facebook. Twitter. OCRE launched its first funding call - specifically focused on stimulating the adoption of digital Earth Observation (EO) services by researchers - on Wednesday 14 October 2020 ..."
+        },
+        {
+          "title": "GEO - Group on Earth Observations",
+          "link": "http://www.earthobservations.org/webinar_wq.php",
+          "text": "The Tier-1 dataset presented in the webinar consists of a large number of earth observation datasets, a first run of a total of nine global hydrological and land surface models for the period 1979 - 2012 and the WFDEI forcing dataset."
+        },
+        {
+          "title": "Webinar Series: Earth Observation for Sustainable ...",
+          "link": "https://olc.worldbank.org/content/webinar-series-earth-observation-sustainable-development-eo4sd",
+          "text": "\"Extend and improve the use of satellite data for the monitoring of the indicators in order to reach Sustainable Development Goal 11\" Learn about Earth Observation data and methods, particularly spatial analytics that are generated through targetted maps such as slum maps, maps of open and green spaces, building footprints and heights, infrastructure, and hazard and risk maps."
+        }
+      ],
+      "workshops": [
+        {
+          "title": "Workshops & Field trips | Advancing Earth \u2026",
+          "link": "https://earthobsforum.org/workshops/",
+          "text": "Workshop/Field trip proposal submissions will open on 7 September 2020 and close on 30 November 2020. Proposals will only be accepted via the Forum submission portal. ... Share Advancing Earth Observation Forum 2021 information with your network and colleagues ..."
+        },
+        {
+          "title": "Apply for the Earth Observation Remote Sensing \u2026",
+          "link": "https://www.esa.int/Education/ESA_Academy/Apply_for_the_Earth_Observation_Remote_Sensing_Workshop_2020",
+          "text": "ESA is running this Earth Observation Remote Sensing Workshop to support future generations of EO scientists. Student working in teams on remote sensing images After the success of the pilot edition in 2018, the second edition of the Earth Observation Remote Sensing Workshop will be held from 11 \u2013 15 May 2020 in ESA Academy\u2019s Training and Learning Facility at ESA ESEC-Galaxia, Belgium."
+        },
+        {
+          "title": "Earth Observation Events - EO Workshops - \u2026",
+          "link": "https://eoportal.org/web/eoportal/events-all",
+          "text": "This workshop has a similar character to ARSI but concentrates entirely on all aspects related to Ka-band Earth Observation instruments. The objectives of the two combined workshop are to review the state of the art in current and future mission concepts including applications, science objectives, mission design and instrument technology."
+        },
+        {
+          "title": "With pandemic thwarting workshops, NASA \u2026",
+          "link": "https://www.space.com/earth-observation-for-native-american-tribes.html",
+          "text": "9/11/2020\u00a0\u00b7 To keep some of the flavor of the workshops, the team brought in Native Americans using Earth observation data, including Rattling Leaf, to introduce \u2026"
+        }
+      ],
+      "colloquium": [
+        {
+          "title": "GEO",
+          "link": "http://www.earthobservations.org/index.php",
+          "text": "Earth observations relevant to climate action are not limited to weather or climate, but are much broader and include terrestrial and socio-economic variables. GEO makes available Earth observations in support of effective policy responses for climate change adaptation, mitigation and other specific provisions , working with partners to enhance global observation systems for climate action."
+        },
+        {
+          "title": "NOAA Research - NOAA & MOES Colloquium",
+          "link": "https://research.noaa.gov/goa",
+          "text": "The 2nd U.S.-India Colloquium on Earth Observations and Sciences for Society and Economy will be held at the National Institute of Oceanography in Goa, India, June 11-13th, 2018. This multi-disciplinary event is intended to bring together delegates from the U.S. and India in order to address emerging ocean and earth science issues."
+        },
+        {
+          "title": "Earth Observation Data | Earthdata",
+          "link": "https://earthdata.nasa.gov/earth-observation-data",
+          "text": ""
+        },
+        {
+          "title": "Earth-based observations of impact phenomena ...",
+          "link": "https://www.cambridge.org/core/journals/international-astronomical-union-colloquium/article/earthbased-observations-of-impact-phenomena/E60C7F82E88547770EA70498EBEE9591",
+          "text": "Earth-based observations of impact phenomena - Volume 156 - Philip D. Nicholson"
+        },
+        {
+          "title": "Colloquium on data science in earth observation ...",
+          "link": "https://acousticcloud.net/blog/Colloquium_on_data_science_in_earth_observation/",
+          "text": "On November 26th 2018 I attended a colloquium on data science in earth observation. DLR Oberpfaffenhofen invited to that event. The speaker was Professor Xiaoxiang Zhu of the Remote Sensing Technology Institute (IMF) and the TU Munich.. The Copernicus satellites of the Sentinal series were mentioned at the beginning of the talk. Because of their high spacial resolution and their reliable ..."
+        },
+        {
+          "title": "ESA - Observing the Earth",
+          "link": "https://www.esa.int/Applications/Observing_the_Earth",
+          "text": "ESA Observing the Earth homepage features the latest news on ESA's Earth observation activities, missions and satellites, including Aeolus, Swarm, Cryosat, SMOS and the Copernicus Sentinels."
+        },
+        {
+          "title": "Colloquium Series | The Arecibo Observatory",
+          "link": "https://www.naic.edu/ao/colloquium-series",
+          "text": "Hosted at the AO, the colloquium series invites the most prominent figures in Space and Atmospheric Sciences, ... was a system engineer with Alcatel Space Industries in Toulouse and studied new concepts of X-Band SAR instrument for Earth Observation for ESA. In 1999 he joined the LPG (now IPAG)."
+        },
+        {
+          "title": "Earth Observation and Geoinformation \u2026",
+          "link": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=874",
+          "text": "Study MSc in Earth Observation & Geoinformation Management at the University of Edinburgh. Our postgraduate degree programme will suit students with a background in environmental or geographical sciences and prepare you for a research degree or relevant employment. Find out more here."
+        },
+        {
+          "title": "International Journal of Applied Earth Observation \u2026",
+          "link": "https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation/",
+          "text": "Announcement: From January 2020 International Journal of Applied Earth Observation and Geoinformation is an open access journal. Authors who publish in International Journal of Applied Earth Observation and Geoinformation will be able make their work \u2026"
+        },
+        {
+          "title": "Fall 2020 Colloquium Speaker Series - Danielle \u2026",
+          "link": "https://www.clarku.edu/departments/geography/event/fall-2020-colloquium-speaker-series-2/",
+          "text": "Joint Colloquium with the George Perkins Marsh Institute. MIT Media Lab, Director of the Space Enabled Research Group. ... These six technologies include satellite earth observation, satellite communication, satellite positioning, microgravity research, technology transfer, and the infrastructure related to space research and education."
+        }
+      ],
+      "intership": [
+        {
+          "title": "DLR - Earth Observation Center - Internship / BSc / \u2026",
+          "link": "https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5875/9727_read-19517/",
+          "text": "The Earth Observation Center (EOC) closely cooperates with universities, not only with respect to research, but also education. We invite young scientists to work with us at DLR i"
+        },
+        {
+          "title": "Internships | Earth Observing Laboratory",
+          "link": "https://www.eol.ucar.edu/content/internships",
+          "text": "Earth Observing Laboratory. Search form. ... EOL offers engineering and technical support internships, advanced science visitor programs, and workshops to encourage and support new users of the NSF Lower Atmosphere Observing Facilities (LAOF). EOL Undergraduate Internships ."
+        },
+        {
+          "title": "Summer Internship | Lamont-Doherty Earth \u2026",
+          "link": "https://www.ldeo.columbia.edu/education/summer-internship",
+          "text": "The Lamont Summer Intern Program for all U.S. undergraduates and the Earth Intern Program for Columbia and Barnard undergraduates provide summer research experience in Earth and ocean sciences. The application deadline is March 15. The Marie Tharpe Fellowship for women provides an opportunity for women scientists to conduct research at Columbia University for a period of 3 month \u2026"
+        },
+        {
+          "title": "An Erasmus earth observation internship: my \u2026",
+          "link": "https://geocento.com/erasmus-earth-observation-internship-experience-geocento-serena-moretto/",
+          "text": "A collaboration between Geocento and NHAZCA, sponsored by the Erasmus Traineeship program and directed by the University of Rome \u2018Sapienza\u2019, gave me the opportunity to spend three months working at Geocento. During this period I learned how best to exploit Geocento technology for imagery search in support of synthetic aperture radar interferometric (InSAR) applications."
+        }
+      ]
+    }
+  }
+]
