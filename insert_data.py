@@ -1,29 +1,8 @@
 import json
-import pymongo
+from pymongo import MongoClient
 from search_engine.main import *
 from bson.json_util import dumps
-client = pymongo.MongoClient("localhost", 27017)
-db = client.sophia
-collection = db.queries
-"""
-query = "Sea"
-results = query_search(query)
-insertDa = {"query": query, "results": results}
-insertDB = collection.insert_one(insertDa)
-"""
-
-file_keywords = open("search_engine/keywords.txt", "r")
-for query in file_keywords:
-    results = query_search(query.strip())
-    insertDa = {"query": query.strip(), "results": results}
-    insertDB = collection.insert_one(insertDa)
-
-"""
-curson = collection.find({"query": "Earth observation"})
-list_cur = list(curson)
-
-
-json_data = dumps(list_cur, indent=2)
-
-with open('data.json', 'w') as file:
-    file.write(json_data)"""
+from dns import resolver
+client = MongoClient(
+    "mongodb://admin:hgr4BvOeOME9R852@cluster0-shard-00-00.qmxmg.mongodb.net:27017,cluster0-shard-00-01.qmxmg.mongodb.net:27017,cluster0-shard-00-02.qmxmg.mongodb.net:27017/sophia?ssl=true&replicaSet=atlas-vb7337-shard-0&authSource=admin&retryWrites=true&w=majority")
+db = client.get_database("sophia")
